@@ -1,0 +1,82 @@
+.Container
+{
+    margin:10px;
+    padding:10px;
+    overflow: hidden;
+}
+ul.menu
+{
+    list-style-type: none;
+    margin: 0;
+    padding:0;
+}
+
+li a
+{
+    font-size: 20px;
+    float: right;
+    display:  block;
+    color: #36AEC1 ;
+    text-align: center;
+    padding: 10px 25px;
+    text-decoration: none;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+}
+li a:hover
+{
+    background-color: #e3e5e9;
+}
+.icon
+{
+    margin-top:0px;
+    margin-bottom: -3em;
+    height: 40px;
+    width: 50px:
+    position: relative;
+}
+
+p
+{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 50px;
+    margin-left: 20px;
+}
+#btn
+{
+    margin-left: 30px;
+    padding:10px;
+    background-color:#36AEC1;
+    /*border-radius: 27px;*/
+    font-size: 1.8em;
+    font-family: 'Montserrat', sans-serif ;
+    color:white;
+    border-radius: 20px;
+    
+  
+}
+.cartoon
+{
+    float: right;
+    padding-right: 20px;
+    margin-top: 0px;
+ 
+}
+.container
+{
+ position: absolute;
+  width: 50%;
+  bottom: 30px;
+}
+.container a{
+    text-align: center;
+    padding:5px;
+    background-color:#36AEC1 ;
+    color:white;
+}
+.followat
+{
+    text-align: right;
+    padding-right: 0px;
+    bottom: -10px;
+}
